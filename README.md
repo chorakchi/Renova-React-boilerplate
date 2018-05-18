@@ -11,7 +11,7 @@
 - webpack
 - Yarn
 - SSR (Server side rendering)
-- Material ui (Google's material design UI components built with React)
+- Material ui v1.0.0 (Google's material design UI components built with React)
 - Material design Icon
 - Chart.js
 
