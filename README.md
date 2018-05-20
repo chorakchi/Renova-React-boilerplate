@@ -15,25 +15,25 @@
     <img alt="ChartJS" src="https://www.chartjs.org/img/chartjs-logo.svg" height="40" />
 </p></h1>
 
-##Features
+## Features
 
-###Quick scaffolding
+### Quick scaffolding
     Create components, containers, routes, selectors and sagas - and their tests - right from the CLI!
-###Instant feedback
+### Instant feedback
     Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes to the CSS and JS are reflected instantaneously without refreshing the page. Preserve application state even when you update something in the underlying code!
-###Predictable state management
+### Predictable state management
     Unidirectional data flow allows for change logging and time travel debugging.
-###Next generation JavaScript
+### Next generation JavaScript
     Use template strings, object destructuring, arrow functions, JSX syntax and more, today.
-###Next generation CSS
+### Next generation CSS
     Write composable CSS that's co-located with your components for complete modularity. Unique generated class names keep the specificity low while eliminating style clashes. Ship only the styles that are on the page for the best performance.
-###Industry-standard routing
+### Industry-standard routing
     It's natural to want to add pages (e.g. `/about`) to your application, and routing makes this possible.
-###Industry-standard i18n internationalization support
+### Industry-standard i18n internationalization support
     Scalable apps need to support multiple languages, easily add and support multiple languages with `react-intl`.
-###Offline-first
+### Offline-first
     The next frontier in performant web apps: availability without a network connection from the instant your users load the app.
-###SEO
+### SEO
     We support SEO (document head tags management) for search engines that support indexing of JavaScript content. (eg. Google)
 
 But wait... there's more!
