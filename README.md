@@ -40,12 +40,12 @@ But wait... there's more!
 
 ##Quick start
 
-    Clone this repo using git clone --depth=1 https://github.com/react-boilerplate/react-boilerplate.git
-    Move to the appropriate directory: cd react-boilerplate.
-    Run npm run setup in order to install dependencies and clean the git repo.
-    We auto-detect yarn for installing packages by default, if you wish to force npm usage do: USE_YARN=false npm run setup
-    At this point you can run npm start to see the example app at http://localhost:3000.
-    Run npm run clean to delete the example app.
+    
+    1. Clone this repo using git clone https://github.com/chorakchi/my-React-boilerplate.git
+    2. Move to the appropriate directory: cd react-redux-boilerplate.
+    3. Run yarn or npm install to install dependencies.
+    4. Run npm start to see the example app at http://localhost:3000.
+
 
 
 
